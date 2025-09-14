@@ -1,0 +1,35 @@
+﻿# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Packages
+*.nupkg
+*.snupkg
+*.vsix
+packages/
+
+# Publish outputs
+*.Publish.xml
+*.pubxml
+*.publishproj
+publish/
+
+# Others
+*.DS_Store
+*.vscode/
+
+# Appsettings configuration files (server info hidden)
+appsettings.json
+appsettings.*.json
